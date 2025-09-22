@@ -1,4 +1,5 @@
 ---
+layout: default
 # De-Central
 ![de-central logo](https://raw.githubusercontent.com/dalecousins83/dalecousins83.github.io/refs/heads/main/assets/images/de-logo_v01.svg)
 ## Thoughts on decentralisation across industries and culture
