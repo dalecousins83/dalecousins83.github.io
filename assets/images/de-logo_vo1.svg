@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 200 200"
+   version="1.1"
+   id="svg15"
+   sodipodi:docname="de-central_v01.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs15" />
+  <sodipodi:namedview
+     id="namedview15"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="4.275"
+     inkscape:cx="100.11696"
+     inkscape:cy="100"
+     inkscape:window-width="1920"
+     inkscape:window-height="1111"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg15" />
+  <!-- Circle center -->
+  <!-- Radiating arrows -->
+  <!-- Arrowheads -->
+  <!-- Center text -->
+  <g
+     id="g35">
+    <g
+       stroke="#000000"
+       stroke-width="8"
+       fill="none"
+       stroke-linecap="round"
+       id="g26"
+       transform="matrix(0.22747392,0.54917064,-0.54917064,0.22747392,132.16967,22.335544)">
+      <!-- Up -->
+      <line
+         x1="100"
+         y1="30"
+         x2="100"
+         y2="70"
+         id="line19" />
+      <!-- Down -->
+      <line
+         x1="100"
+         y1="130"
+         x2="100"
+         y2="170"
+         id="line20" />
+      <!-- Left -->
+      <line
+         x1="30"
+         y1="100"
+         x2="70"
+         y2="100"
+         id="line21" />
+      <!-- Right -->
+      <line
+         x1="130"
+         y1="100"
+         x2="170"
+         y2="100"
+         id="line22" />
+      <!-- Diagonals -->
+      <line
+         x1="55"
+         y1="55"
+         x2="78"
+         y2="78"
+         id="line23" />
+      <line
+         x1="145"
+         y1="55"
+         x2="122"
+         y2="78"
+         id="line24" />
+      <line
+         x1="55"
+         y1="145"
+         x2="78"
+         y2="122"
+         id="line25" />
+      <line
+         x1="145"
+         y1="145"
+         x2="122"
+         y2="122"
+         id="line26" />
+    </g>
+    <g
+       stroke="#000000"
+       stroke-width="8"
+       fill="none"
+       stroke-linecap="round"
+       id="g34"
+       transform="matrix(-0.22747392,0.54917064,0.54917064,0.22747392,67.830325,22.335544)">
+      <!-- Up -->
+      <line
+         x1="100"
+         y1="30"
+         x2="100"
+         y2="70"
+         id="line27" />
+      <!-- Down -->
+      <line
+         x1="100"
+         y1="130"
+         x2="100"
+         y2="170"
+         id="line28" />
+      <!-- Left -->
+      <line
+         x1="30"
+         y1="100"
+         x2="70"
+         y2="100"
+         id="line29" />
+      <!-- Right -->
+      <line
+         x1="130"
+         y1="100"
+         x2="170"
+         y2="100"
+         id="line30" />
+      <!-- Diagonals -->
+      <line
+         x1="55"
+         y1="55"
+         x2="78"
+         y2="78"
+         id="line31" />
+      <line
+         x1="145"
+         y1="55"
+         x2="122"
+         y2="78"
+         id="line32" />
+      <line
+         x1="55"
+         y1="145"
+         x2="78"
+         y2="122"
+         id="line33" />
+      <line
+         x1="145"
+         y1="145"
+         x2="122"
+         y2="122"
+         id="line34" />
+    </g>
+    <circle
+       cx="100"
+       cy="100"
+       r="28.674419"
+       fill="#000000"
+       id="circle1"
+       style="stroke-width:0.955814" />
+    <g
+       stroke="#000000"
+       stroke-width="8"
+       fill="none"
+       stroke-linecap="round"
+       id="g8"
+       transform="matrix(0.95581396,0,0,0.95581396,4.4186047,4.4186047)">
+      <!-- Up -->
+      <line
+         x1="100"
+         y1="30"
+         x2="100"
+         y2="70"
+         id="line1" />
+      <!-- Down -->
+      <line
+         x1="100"
+         y1="130"
+         x2="100"
+         y2="170"
+         id="line2" />
+      <!-- Left -->
+      <line
+         x1="30"
+         y1="100"
+         x2="70"
+         y2="100"
+         id="line3" />
+      <!-- Right -->
+      <line
+         x1="130"
+         y1="100"
+         x2="170"
+         y2="100"
+         id="line4" />
+      <!-- Diagonals -->
+      <line
+         x1="55"
+         y1="55"
+         x2="78"
+         y2="78"
+         id="line5" />
+      <line
+         x1="145"
+         y1="55"
+         x2="122"
+         y2="78"
+         id="line6" />
+      <line
+         x1="55"
+         y1="145"
+         x2="78"
+         y2="122"
+         id="line7" />
+      <line
+         x1="145"
+         y1="145"
+         x2="122"
+         y2="122"
+         id="line8" />
+    </g>
+    <g
+       id="g16"
+       transform="matrix(1.1260274,0,0,1.1260274,-12.60274,-12.60274)">
+      <polygon
+         points="100,20 95,35 105,35 "
+         id="polygon8"
+         transform="matrix(1.0672515,0,0,1.0672515,-6.7251462,-6.7251462)"
+         style="fill:#000000" />
+      <polygon
+         points="100,180 95,165 105,165 "
+         id="polygon9"
+         transform="matrix(1.0672515,0,0,1.0672515,-6.7251462,-6.7251462)"
+         style="fill:#000000" />
+      <polygon
+         points="20,100 35,95 35,105 "
+         id="polygon10"
+         transform="matrix(1.0672515,0,0,1.0672515,-6.7251462,-6.7251462)"
+         style="fill:#000000" />
+      <polygon
+         points="180,100 165,95 165,105 "
+         id="polygon11"
+         transform="matrix(1.0672515,0,0,1.0672515,-6.7251462,-6.7251462)"
+         style="fill:#000000" />
+    </g>
+    <text
+       x="99.664536"
+       y="111.44189"
+       text-anchor="middle"
+       fill="#ffffff"
+       font-size="34.8191px"
+       font-family="Helvetica, Arial, sans-serif"
+       id="text15"
+       style="stroke-width:1.74096"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;stroke-width:1.74096"
+         id="tspan19">de</tspan></text>
+    <g
+       id="g19"
+       transform="matrix(1.1260274,0,0,1.1260274,-12.60274,-12.60274)">
+      <polygon
+         points="95,35 105,35 100,20 "
+         id="polygon16"
+         transform="matrix(0.75466077,0.75466077,-0.75466077,0.75466077,96,-46.932149)"
+         style="fill:#000000" />
+      <polygon
+         points="95,165 105,165 100,180 "
+         id="polygon17"
+         transform="matrix(0.75466077,0.75466077,-0.75466077,0.75466077,104,-54.932149)"
+         style="fill:#000000" />
+      <polygon
+         points="35,95 35,105 20,100 "
+         id="polygon18"
+         transform="matrix(0.75466077,0.75466077,-0.75466077,0.75466077,104,-46.932149)"
+         style="fill:#000000" />
+      <polygon
+         points="165,95 165,105 180,100 "
+         id="polygon19"
+         transform="matrix(0.75466077,0.75466077,-0.75466077,0.75466077,96,-54.932149)"
+         style="fill:#000000" />
+    </g>
+  </g>
+</svg>
