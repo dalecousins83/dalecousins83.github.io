@@ -1,3 +1,3 @@
 # De-Central
-![de-central logo](/asses/images/de-logo_v01.svg)
+![de-central logo](/assets/images/de-logo_v01.svg)
 Thoughts on decentralisation across industries and culture
