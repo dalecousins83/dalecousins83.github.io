@@ -5,4 +5,4 @@ baseurl: dalecousins83.github.io
 remote_theme: manid2/lone-wolf-theme
 plugins:
   - jekyll-remote-theme
-index.md
+
