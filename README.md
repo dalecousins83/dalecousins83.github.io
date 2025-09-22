@@ -1,2 +1,2 @@
-# dalecousins83.github.io
+# De-Central
 Thoughts on decentralisation across industries and culture
