@@ -1,7 +1,7 @@
 title: dalecousins83 - De-central
 description: Thoughts on decentralisation
-url: :https://github.com/dalecousins83/"
-baseurl: "https://dalecousins83.github.io"
+url: "https://github.com/dalecousins83/"
+baseurl: "dalecousins83.github.io"
 remote_theme: manid2/lone-wolf-theme
 plugins:
   - jekyll-remote-theme
