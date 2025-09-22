@@ -6,3 +6,4 @@ baseurl: dalecousins83.github.io
 remote_theme: somegeekintn/lone-wolf-theme
 plugins:
   - jekyll-remote-theme
+index.md
