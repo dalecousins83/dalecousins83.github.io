@@ -3,7 +3,7 @@ title: dalecousins83 - De-central
 description: Thoughts on decentralisation
 url: https://github.com/dalecousins83/dalecousins83.github.io
 baseurl: dalecousins83.github.io
-remote_theme: somegeekintn/lone-wolf-theme
+remote_theme: manid2/lone-wolf-theme
 plugins:
   - jekyll-remote-theme
 index.md
