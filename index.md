@@ -4,7 +4,7 @@ title: De-central
 permalink: /
 ---
 # De-Central
-![de-central logo](https://raw.githubusercontent.com/dalecousins83/dalecousins83.github.io/refs/heads/main/assets/images/de-logo_v01.svg)
+![de-central logo](https://raw.githubusercontent.com/dalecousins83/dalecousins83.github.io/refs/heads/main/assets/images/de-logo_v01.png)
 ## Thoughts on decentralisation across industries and culture
 The first time I read ```Thinking in Systems``` by Donella Meadows there were many things I found interesting, but one quote always stood out to me:
 
